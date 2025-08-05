@@ -8,7 +8,7 @@ export default function Footer() {
       <div className="container mx-auto px-4">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           <div>
-            <h3 className="text-2xl font-bold text-green-400 mb-4" style={{fontFamily: 'Pacifico, serif'}}>
+            <h3 className="text-2xl font-bold text-green-400 mb-4" style={{ fontFamily: 'Pacifico, serif' }}>
               IndieScrap
             </h3>
             <p className="text-gray-400 mb-4">
@@ -52,15 +52,15 @@ export default function Footer() {
             <div className="space-y-3">
               <div className="flex items-center">
                 <i className="ri-phone-fill text-green-400 mr-3"></i>
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400"> 919919235546</span>
               </div>
               <div className="flex items-center">
                 <i className="ri-mail-fill text-green-400 mr-3"></i>
-                <span className="text-gray-400">info@scrapcollect.com</span>
+                <span className="text-gray-400">info@IndieScrap.com</span>
               </div>
               <div className="flex items-center">
                 <i className="ri-map-pin-fill text-green-400 mr-3"></i>
-                <span className="text-gray-400">123 Green Street, Eco City, EC 12345</span>
+                <span className="text-gray-400">Supermarket lalbagh kaiserbagh lucknow  </span>
               </div>
             </div>
           </div>
